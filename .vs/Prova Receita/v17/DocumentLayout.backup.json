@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Receita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Receita.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\ReceitaRotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Receita\\ReceitaRotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Receita\\Receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Dtos\\CriarReceitaRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Receita\\Dtos\\CriarReceitaRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Dtos\\AlterarReceitaRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Receita\\Dtos\\AlterarReceitaRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\20240801230357_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Migrations\\20240801230357_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\20240801230357_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Migrations\\20240801230357_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\guia.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\guia.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceitaCrud\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CriarReceitaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Dtos\\CriarReceitaRequest.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Receita\\Dtos\\CriarReceitaRequest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Dtos\\CriarReceitaRequest.cs",
+              "RelativeToolTip": "ReceitaCrud\\Receita\\Dtos\\CriarReceitaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:32:56.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Receita.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Receita.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Receita\\Receita.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Receita.cs",
+              "RelativeToolTip": "ReceitaCrud\\Receita\\Receita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:31:49.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReceitaRotas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\ReceitaRotas.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Receita\\ReceitaRotas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\ReceitaRotas.cs",
+              "RelativeToolTip": "ReceitaCrud\\Receita\\ReceitaRotas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:33:28.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Program.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Program.cs",
+              "RelativeToolTip": "ReceitaCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:43:18.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receita.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita.csproj",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Receita.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita.csproj",
+              "RelativeToolTip": "ReceitaCrud\\Receita.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T23:45:46.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receita.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita.http",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Receita.http",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita.http",
+              "RelativeToolTip": "ReceitaCrud\\Receita.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-16T23:45:51.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReceitaCrud\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:41:44.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlterarReceitaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Dtos\\AlterarReceitaRequest.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Receita\\Dtos\\AlterarReceitaRequest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Receita\\Dtos\\AlterarReceitaRequest.cs",
+              "RelativeToolTip": "ReceitaCrud\\Receita\\Dtos\\AlterarReceitaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:32:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240801230357_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\20240801230357_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Migrations\\20240801230357_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\20240801230357_Initial.Designer.cs",
+              "RelativeToolTip": "ReceitaCrud\\Migrations\\20240801230357_Initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:34:05.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240801230357_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\20240801230357_Initial.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Migrations\\20240801230357_Initial.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\20240801230357_Initial.cs",
+              "RelativeToolTip": "ReceitaCrud\\Migrations\\20240801230357_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:40:23.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ReceitaCrud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:38:09.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReceitaCrud\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReceitaCrud\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T23:33:55.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\.gitignore",
+              "RelativeDocumentMoniker": "ReceitaCrud\\.gitignore",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\.gitignore",
+              "RelativeToolTip": "ReceitaCrud\\.gitignore",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T23:42:46.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "ReceitaCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\appsettings.json",
+              "RelativeToolTip": "ReceitaCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T23:42:59.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ReceitaCrud\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\appsettings.Development.json",
+              "RelativeToolTip": "ReceitaCrud\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T23:43:02.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "guia.md",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\guia.md",
+              "RelativeDocumentMoniker": "ReceitaCrud\\guia.md",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\guia.md",
+              "RelativeToolTip": "ReceitaCrud\\guia.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-16T23:43:07.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\.gitattributes",
+              "RelativeDocumentMoniker": "ReceitaCrud\\.gitattributes",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Prova Receita\\ReceitaCrud\\.gitattributes",
+              "RelativeToolTip": "ReceitaCrud\\.gitattributes",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T23:42:37.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
