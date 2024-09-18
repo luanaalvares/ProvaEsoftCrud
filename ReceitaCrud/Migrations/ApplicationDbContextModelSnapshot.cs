@@ -2,11 +2,12 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using ReceitasCrud.Data;
+
+using ReceitaCrud.Data;
 
 #nullable disable
 
-namespace Receita.Migrations
+namespace ReceitaCrud.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
@@ -22,16 +23,27 @@ namespace Receita.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+<<<<<<< HEAD
                     b.Property<double>("CustoAproximado")
                         .HasColumnType("REAL");
+=======
+                    b.Property<int>("TempoPreparo")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<float>("CustoAproximado")
+                        .HasColumnType("INTEGER");
+>>>>>>> f5854a85d19b8c720d7ebadf35a671d9a0d62260
 
                     b.Property<string>("Nome")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+<<<<<<< HEAD
                     b.Property<int>("TempoPreparo")
                         .HasColumnType("INTEGER");
 
+=======
+>>>>>>> f5854a85d19b8c720d7ebadf35a671d9a0d62260
                     b.HasKey("Id");
 
                     b.ToTable("Receitas");
@@ -39,4 +51,8 @@ namespace Receita.Migrations
 #pragma warning restore 612, 618
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f5854a85d19b8c720d7ebadf35a671d9a0d62260

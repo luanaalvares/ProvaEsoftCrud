@@ -1,6 +1,7 @@
 using ReceitasCrud.Data;
 using ReceitaCrud.ReceitasPasta;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

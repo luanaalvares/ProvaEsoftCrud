@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D/s8bVHnawA=",
+  "dgSpecHash": "rd5btWgKCic=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\ProvaEsoftCrud2\\ReceitaCrud\\Receita.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\ProvaEsoftCrud\\ReceitaCrud\\Receita.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.7\\microsoft.aspnetcore.openapi.8.0.7.nupkg.sha512",

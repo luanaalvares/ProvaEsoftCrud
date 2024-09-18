@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\ProvaEsoftCrud\ReceitaCrud\obj\Debug\net8.0\Receita.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProvaEsoftCrud\ReceitaCrud\obj\Debug\net8.0\Receita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ProvaEsoftCrud\ReceitaCrud\obj\Debug\net8.0\Receita.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ProvaEsoftCrud\ReceitaCrud\obj\Debug\net8.0\Receita.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ProvaEsoftCrud\ReceitaCrud\obj\Debug\net8.0\Receita.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProvaEsoftCrud\ReceitaCrud\obj\Debug\net8.0\Receita.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\ProvaEsoftCrud\ReceitaCrud\obj\Debug\net8.0\Receita.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\ProvaEsoftCrud\ReceitaCrud\obj\Debug\net8.0\Receita.sourcelink.json
